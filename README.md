@@ -41,14 +41,6 @@ OpenCV · Power BI
 
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaradhya-g&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaradhya-g&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/aaradhya-gupta-23a6152a1/
